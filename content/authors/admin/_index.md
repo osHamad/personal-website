@@ -22,7 +22,11 @@ organizations:
   - name: St. Josephine High School
     url: https://virtualacademy.ocsb.ca/
 education:
-  courses: []
+  courses:
+    - course: Grade 7 to 9
+      institution: Abraar Secondary School
+    - course: Grade 10 to present
+      institution: St. Josephine Virtual Academy
 email: ""
 superuser: true
 highlight_name: true
