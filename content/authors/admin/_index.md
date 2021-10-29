@@ -1,6 +1,7 @@
 ---
 title: Osama Hamad
 role: Grade 11 High School Student
+avatar_filename: pic.png
 bio: My interests include Algorithms, ML and AI, and Full-stack development
 interests:
   - Artificial Intelligence
